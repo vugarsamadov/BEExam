@@ -1,0 +1,15 @@
+C:\Users\Birinci Novbe\Desktop\BEExam\BEExam.Infrastructure\bin\Debug\net7.0\BEExam.Infrastructure.deps.json
+C:\Users\Birinci Novbe\Desktop\BEExam\BEExam.Infrastructure\bin\Debug\net7.0\BEExam.Infrastructure.dll
+C:\Users\Birinci Novbe\Desktop\BEExam\BEExam.Infrastructure\bin\Debug\net7.0\BEExam.Infrastructure.pdb
+C:\Users\Birinci Novbe\Desktop\BEExam\BEExam.Infrastructure\bin\Debug\net7.0\BEExam.Core.dll
+C:\Users\Birinci Novbe\Desktop\BEExam\BEExam.Infrastructure\bin\Debug\net7.0\BEExam.Core.pdb
+C:\Users\Birinci Novbe\Desktop\BEExam\BEExam.Infrastructure\obj\Debug\net7.0\BEExam.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Birinci Novbe\Desktop\BEExam\BEExam.Infrastructure\obj\Debug\net7.0\BEExam.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\BEExam\BEExam.Infrastructure\obj\Debug\net7.0\BEExam.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\BEExam\BEExam.Infrastructure\obj\Debug\net7.0\BEExam.Infrastructure.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\BEExam\BEExam.Infrastructure\obj\Debug\net7.0\BEExam.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\BEExam\BEExam.Infrastructure\obj\Debug\net7.0\BEExam.Infrastructure.csproj.CopyComplete
+C:\Users\Birinci Novbe\Desktop\BEExam\BEExam.Infrastructure\obj\Debug\net7.0\BEExam.Infrastructure.dll
+C:\Users\Birinci Novbe\Desktop\BEExam\BEExam.Infrastructure\obj\Debug\net7.0\refint\BEExam.Infrastructure.dll
+C:\Users\Birinci Novbe\Desktop\BEExam\BEExam.Infrastructure\obj\Debug\net7.0\BEExam.Infrastructure.pdb
+C:\Users\Birinci Novbe\Desktop\BEExam\BEExam.Infrastructure\obj\Debug\net7.0\ref\BEExam.Infrastructure.dll

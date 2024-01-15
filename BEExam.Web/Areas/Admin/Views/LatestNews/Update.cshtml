@@ -1,0 +1,34 @@
+﻿@model LatestNewsUpdateVM
+
+
+
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+
+    <div class="form-control">
+        <input asp-for="Title">
+        <label asp-for="Title"></label>
+        <span asp-validation-for="Title"></span>
+    </div>
+
+    <div class="form-control">
+        <input asp-for="Description">
+        <label asp-for="Description"></label>
+        <span asp-validation-for="Description"></span>
+    </div>
+
+    <div class="form-control">
+        <input asp-for="Image">
+        <label asp-for="Image"></label>
+        <span asp-validation-for="Image"></span>
+    </div>
+
+
+    <div class="form-control">
+        <input asp-for="AuthorName">
+        <label asp-for="AuthorName"></label>
+        <span asp-validation-for="AuthorName"></span>
+    </div>
+
+
+    <button class="btn btn-success" type="submit">Create</button>
+</form>

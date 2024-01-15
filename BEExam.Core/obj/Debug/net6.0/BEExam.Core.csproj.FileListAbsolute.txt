@@ -1,0 +1,12 @@
+C:\Users\Birinci Novbe\Desktop\BEExam\BEExam.Core\bin\Debug\net6.0\BEExam.Core.deps.json
+C:\Users\Birinci Novbe\Desktop\BEExam\BEExam.Core\bin\Debug\net6.0\BEExam.Core.dll
+C:\Users\Birinci Novbe\Desktop\BEExam\BEExam.Core\bin\Debug\net6.0\BEExam.Core.pdb
+C:\Users\Birinci Novbe\Desktop\BEExam\BEExam.Core\obj\Debug\net6.0\BEExam.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\BEExam\BEExam.Core\obj\Debug\net6.0\BEExam.Core.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\BEExam\BEExam.Core\obj\Debug\net6.0\BEExam.Core.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\BEExam\BEExam.Core\obj\Debug\net6.0\BEExam.Core.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\BEExam\BEExam.Core\obj\Debug\net6.0\BEExam.Core.dll
+C:\Users\Birinci Novbe\Desktop\BEExam\BEExam.Core\obj\Debug\net6.0\refint\BEExam.Core.dll
+C:\Users\Birinci Novbe\Desktop\BEExam\BEExam.Core\obj\Debug\net6.0\BEExam.Core.pdb
+C:\Users\Birinci Novbe\Desktop\BEExam\BEExam.Core\obj\Debug\net6.0\ref\BEExam.Core.dll
+C:\Users\Birinci Novbe\Desktop\BEExam\BEExam.Core\obj\Debug\net6.0\BEExam.Core.csproj.AssemblyReference.cache
